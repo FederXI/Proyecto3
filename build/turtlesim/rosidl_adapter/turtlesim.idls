@@ -1,0 +1,8 @@
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/home/jotadejojo/Proyecto3/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl

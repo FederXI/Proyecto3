@@ -1,0 +1,6 @@
+Invoking command in '/home/jotadejojo/Proyecto3/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/jotadejojo/Proyecto3/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/jotadejojo/Proyecto3/install/turtlesim
+Invoked command in '/home/jotadejojo/Proyecto3/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/jotadejojo/Proyecto3/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/jotadejojo/Proyecto3/install/turtlesim
+Invoking command in '/home/jotadejojo/Proyecto3/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/jotadejojo/Proyecto3/build/turtlesim -- -j8 -l8
+Invoked command in '/home/jotadejojo/Proyecto3/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/jotadejojo/Proyecto3/build/turtlesim -- -j8 -l8
+Invoking command in '/home/jotadejojo/Proyecto3/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/jotadejojo/Proyecto3/build/turtlesim
+Invoked command in '/home/jotadejojo/Proyecto3/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/jotadejojo/Proyecto3/build/turtlesim
