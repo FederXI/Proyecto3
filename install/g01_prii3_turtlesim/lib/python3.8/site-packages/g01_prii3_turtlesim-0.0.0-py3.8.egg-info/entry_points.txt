@@ -1,0 +1,3 @@
+[console_scripts]
+sprint1 = g01_prii3_turtlesim.sprint1:main
+

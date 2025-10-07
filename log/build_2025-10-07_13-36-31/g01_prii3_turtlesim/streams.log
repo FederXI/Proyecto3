@@ -1,0 +1,41 @@
+[0.352s] Invoking command in '/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/src/g01_prii3_turtlesim': PYTHONPATH=/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g01_prii3_turtlesim build --build-base /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build install --record /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/install.log --install-scripts $base/lib/g01_prii3_turtlesim --single-version-externally-managed install_data
+[0.470s] running egg_info
+[0.470s] creating ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info
+[0.470s] writing ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/PKG-INFO
+[0.470s] writing dependency_links to ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/dependency_links.txt
+[0.470s] writing entry points to ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/entry_points.txt
+[0.470s] writing requirements to ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/requires.txt
+[0.471s] writing top-level names to ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/top_level.txt
+[0.471s] writing manifest file '../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/SOURCES.txt'
+[0.491s] reading manifest file '../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/SOURCES.txt'
+[0.491s] writing manifest file '../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info/SOURCES.txt'
+[0.491s] running build
+[0.491s] running build_py
+[0.491s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build
+[0.491s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build/lib
+[0.491s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build/lib/g01_prii3_turtlesim
+[0.491s] copying g01_prii3_turtlesim/__init__.py -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build/lib/g01_prii3_turtlesim
+[0.491s] copying g01_prii3_turtlesim/sprint1.py -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build/lib/g01_prii3_turtlesim
+[0.491s] running install
+[0.492s] running install_lib
+[0.492s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages/g01_prii3_turtlesim
+[0.492s] copying /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build/lib/g01_prii3_turtlesim/__init__.py -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages/g01_prii3_turtlesim
+[0.492s] copying /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build/lib/g01_prii3_turtlesim/sprint1.py -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages/g01_prii3_turtlesim
+[0.493s] byte-compiling /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages/g01_prii3_turtlesim/__init__.py to __init__.cpython-38.pyc
+[0.493s] byte-compiling /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages/g01_prii3_turtlesim/sprint1.py to sprint1.cpython-38.pyc
+[0.494s] running install_data
+[0.494s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share
+[0.494s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/ament_index
+[0.494s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/ament_index/resource_index
+[0.494s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/ament_index/resource_index/packages
+[0.494s] copying resource/g01_prii3_turtlesim -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/ament_index/resource_index/packages
+[0.494s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/g01_prii3_turtlesim
+[0.494s] copying package.xml -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/g01_prii3_turtlesim
+[0.494s] creating /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/g01_prii3_turtlesim/launch
+[0.494s] copying launch/sprint1_launch.py -> /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/share/g01_prii3_turtlesim/launch
+[0.494s] running install_egg_info
+[0.495s] Copying ../../build/g01_prii3_turtlesim/g01_prii3_turtlesim.egg-info to /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages/g01_prii3_turtlesim-0.0.0-py3.8.egg-info
+[0.495s] running install_scripts
+[0.506s] Installing sprint1 script to /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/g01_prii3_turtlesim
+[0.506s] writing list of installed files to '/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/install.log'
+[0.519s] Invoked command in '/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/src/g01_prii3_turtlesim' returned '0': PYTHONPATH=/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/install/g01_prii3_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g01_prii3_turtlesim build --build-base /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/build install --record /home/domenico/Tercero/PRYIII/DISA/g1_Proyecto3_ws/build/g01_prii3_turtlesim/install.log --install-scripts $base/lib/g01_prii3_turtlesim --single-version-externally-managed install_data
